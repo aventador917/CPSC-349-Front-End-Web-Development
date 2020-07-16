@@ -1,0 +1,41 @@
+body{
+    background:darkblue;
+}
+
+span {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: initial;
+}
+
+p{
+    background: aqua;
+    color:red;
+}
+
+ul{
+    list-style-type: square;
+}
+
+ol{
+    list-style-type: lower-alpha;
+}
+
+nav{
+    background: darkorange;
+    border-style: double;
+}
+
+a{
+    margin: 0 20px;
+}
+
+a:hover{
+    color:crimson; 
+    text-decoration: underline;
+}
+
+img {
+    width:  300px;
+    height: 300px;
+    object-fit: cover;
+}

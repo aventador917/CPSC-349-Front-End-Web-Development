@@ -1,0 +1,34 @@
+body{
+    background:yellow;
+}
+
+span {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: initial;
+}
+
+p{
+    background: aqua;
+}
+
+ul{
+    list-style-type: square;
+}
+
+ol{
+    list-style-type: lower-alpha;
+}
+
+nav{
+    background: darkorange;
+    border-style: double;
+}
+
+a{
+    margin: 0 20px;
+}
+
+a:hover{
+    color:crimson; 
+    text-decoration: underline;
+}
